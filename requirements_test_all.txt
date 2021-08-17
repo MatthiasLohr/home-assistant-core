@@ -1278,6 +1278,9 @@ tesla-powerwall==0.3.10
 # homeassistant.components.tesla
 teslajsonpy==0.18.3
 
+# homeassistant.components.tolosauna
+tololib==0.1.0a6
+
 # homeassistant.components.toon
 toonapi==0.2.0
 

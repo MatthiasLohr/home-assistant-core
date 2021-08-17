@@ -1,0 +1,17 @@
+{
+  "domain": "tolosauna",
+  "name": "tolosauna",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/tolosauna",
+  "requirements": [
+    "tololib==0.1.0a6"
+  ],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@MatthiasLohr"
+  ],
+  "iot_class": "local_polling"
+}

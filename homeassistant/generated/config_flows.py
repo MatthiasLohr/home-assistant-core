@@ -275,6 +275,7 @@ FLOWS = [
     "tesla",
     "tibber",
     "tile",
+    "tolosauna",
     "toon",
     "totalconnect",
     "tplink",
